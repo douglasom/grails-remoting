@@ -5,3 +5,7 @@ target
 .settings
 web-app
 .idea
+build
+.gradle
+!gradle/wrapper/gradle-wrapper.jar
+!grails-wrapper.jar
